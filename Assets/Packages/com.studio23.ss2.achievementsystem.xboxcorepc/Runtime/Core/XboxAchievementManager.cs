@@ -9,7 +9,7 @@ using UnityEngine;
 using XGamingRuntime;
 
 
-namespace Studio23.SS2.AchievementSystem.XboxCore.Core
+namespace Studio23.SS2.AchievementSystem.XboxCorePc.Core
 {
     public class ErrorEventArgs : System.EventArgs
     {

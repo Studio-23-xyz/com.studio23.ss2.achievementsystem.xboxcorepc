@@ -1,7 +1,7 @@
 {
-  "name": "com.studio23.ss2.achievementsystem.xboxcore",
-  "version": "0.1.3",
-  "displayName": "Achievementsystem.XboxCore",
+  "name": "com.studio23.ss2.achievementsystem.xboxcorepc",
+  "version": "0.1.4",
+  "displayName": "Achievementsystem XboxCore Pc",
   "description": "This is an extension tool designed to simplify the process of creating folder structures required for Unity packages that are published on  openupm.com.",
   "unity": "2022.3",
   "unityRelease": "10f1",

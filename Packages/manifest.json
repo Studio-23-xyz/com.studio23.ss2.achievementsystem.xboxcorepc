@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.studio23.ss2.achievementsystem": "1.1.4",
+    "com.studio23.ss2.achievementsystem": "1.1.5",
     "com.studio23.ss2.authsystem": "2.0.2",
     "com.studio23.ss2.authsystem.xboxcorepc": "0.0.1",
     "com.unity.collab-proxy": "2.2.0",

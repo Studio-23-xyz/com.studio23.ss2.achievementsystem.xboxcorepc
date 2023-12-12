@@ -1,12 +1,12 @@
 {
   "name": "com.studio23.ss2.achievementsystem.xboxcorepc",
-  "version": "0.1.4",
-  "displayName": "Achievementsystem XboxCore Pc",
+  "version": "0.1.5",
+  "displayName": "Achievementsystem XboxCore PC",
   "description": "This is an extension tool designed to simplify the process of creating folder structures required for Unity packages that are published on  openupm.com.",
   "unity": "2022.3",
   "unityRelease": "10f1",
-  "documentationUrl": "https://openupm.com/packages/com.studio23.ss2.achievementsystem.xboxcore",
-  "changelogUrl": "https://openupm.com/packages/com.studio23.ss2.achievementsystem.xboxcore",
+  "documentationUrl": "https://openupm.com/packages/com.studio23.ss2.achievementsystem.xboxcorepc",
+  "changelogUrl": "https://openupm.com/packages/com.studio23.ss2.achievementsystem.xboxcorepc",
   "licensesUrl": "https://api.github.com/licenses/mit",
   "scopedRegistries": [
     {
@@ -23,7 +23,7 @@
     "com.studio23.ss2.authsystem.xboxcore": "0.1.2"
   },
   "keywords": [
-    "XBOX Game Core",
+    "XBOX Game Core PC",
     "Achievements"
   ],
   "author": {

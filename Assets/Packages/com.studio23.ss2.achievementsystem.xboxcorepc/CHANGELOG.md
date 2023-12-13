@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.1.6] - 2023-12-12
+
+### Updated
+
++  Update Scope Registry
+
+
 ## [v0.1.4] - 2023-12-12
 
 ### Updated

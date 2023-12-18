@@ -2,8 +2,6 @@ using System.Linq;
 using UnityEngine;
 using Studio23.SS2.AchievementSystem.Providers;
 using Studio23.SS2.Authsystem.XboxCorePC.Core;
-using Studio23.SS2.Authsystem.XboxCorePC.Data;
-using XGamingRuntime;
 
 namespace Studio23.SS2.AchievementSystem.XboxCorePc.Core
 {
@@ -14,7 +12,8 @@ namespace Studio23.SS2.AchievementSystem.XboxCorePc.Core
         [ContextMenu("Initialize")]
         public override void Initialize()
         {
-            MSGdk.Helpers.XblAchievementsGetAchievementsForTitleIdAsync();
+            /*MSGdk.Helpers.XblAchievementsGetAchievementsForTitleIdAsync();*/
+            OnInitializationComplete?.Invoke();
         }
         
         public override AchievementData GetAchievement(string id)

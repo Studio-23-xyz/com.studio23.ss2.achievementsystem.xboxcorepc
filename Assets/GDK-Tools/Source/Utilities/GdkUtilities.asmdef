@@ -1,12 +1,7 @@
 {
-    "name": "com.studio23.ss2.achievementsystem.xboxcorepc",
+    "name": "GdkUtilities",
     "rootNamespace": "",
-    "references": [
-        "GUID:d71212f901861074293b8c1e6f53d45f",
-        "GUID:fa11062f96de91b409f6d85fa6d2d5c7",
-        "GUID:941e0baf56c94a648a2ed7c0a3537b0f",
-        "GUID:f51ebe6a0ceec4240a699833d6309b23"
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor",
         "WindowsStandalone64"

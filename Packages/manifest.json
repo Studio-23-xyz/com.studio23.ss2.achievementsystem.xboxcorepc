@@ -2,8 +2,8 @@
   "dependencies": {
     "com.cysharp.unitask": "2.5.0",
     "com.studio23.ss2.achievementsystem": "1.2.1",
-    "com.studio23.ss2.authsystem": "2.0.7",
-    "com.studio23.ss2.authsystem.xboxcorepc": "file:C:/Unity/com.studio23.ss2.authsystem.xboxcorepc/Assets/Packages/com.studio23.ss2.authsystem.xboxcorepc",
+    "com.studio23.ss2.authsystem": "2.0.8",
+    "com.studio23.ss2.authsystem.xboxcorepc": "0.0.8",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",

@@ -1,0 +1,1 @@
+##### This is an extension tool designed to simplify the process of creating folder structures required for Unity packages that are published on  openupm.com. 
